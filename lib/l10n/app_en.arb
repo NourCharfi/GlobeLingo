@@ -1,0 +1,20 @@
+{
+  "appTitle": "ML Kit App",
+  "homeTitle": "Home",
+  "ocr": "OCR",
+  "voiceTranslation": "Voice Translation",
+  "pdfTranslation": "PDF Translation",
+  "objectDetection": "Object Detection",
+  "simpleTranslation": "Simple Translation",
+  "dictionary": "Dictionary",
+  "quiz": "Quiz",
+  "settings": "Settings",
+  "inputTextRequired": "Please enter text to translate.",
+  "translationImpossible": "Translation is impossible.",
+  "noTextToRead": "No text to read.",
+  "cannotReadTranslation": "Cannot read translation.",
+  "enterTextToTranslate": "Enter text to translate",
+  "translatedText": "Translated text:",
+  "listenTranslation": "Listen to translation",
+  "noTranslation": "No translation."
+}

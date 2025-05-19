@@ -1,0 +1,20 @@
+{
+  "appTitle": "App ML Kit",
+  "homeTitle": "Accueil",
+  "ocr": "OCR",
+  "voiceTranslation": "Traduction vocale",
+  "pdfTranslation": "Traduction PDF",
+  "objectDetection": "Reconnaissance d'objets",
+  "simpleTranslation": "Traduction Simple",
+  "dictionary": "Dictionnaire",
+  "quiz": "Quiz éducatif",
+  "settings": "Paramètres",
+  "inputTextRequired": "Veuillez saisir un texte à traduire.",
+  "translationImpossible": "La traduction est impossible.",
+  "noTextToRead": "Aucun texte à lire.",
+  "cannotReadTranslation": "Impossible de lire la traduction.",
+  "enterTextToTranslate": "Entrez le texte à traduire",
+  "translatedText": "Texte traduit :",
+  "listenTranslation": "Écouter la traduction",
+  "noTranslation": "Aucune traduction."
+}
