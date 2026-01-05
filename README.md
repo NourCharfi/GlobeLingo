@@ -1,6 +1,7 @@
 # GlobeLingo
 
 Tagline : Apprenez, traduisez et communiquez facilement â€” partout dans le monde.
+<img width="405" height="105" alt="image" src="https://github.com/user-attachments/assets/64c90faf-1b46-494b-a44e-ccbb634bfe99" />
 
 ---
 
@@ -85,3 +86,4 @@ GlobeLingo transforme des moments stressants (commander, demander son chemin, gÃ
 - Packages notables : speech_to_text, flutter_tts, file_picker, provider, etc.
 
 ---
+
